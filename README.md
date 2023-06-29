@@ -4,7 +4,7 @@ Export your todos are github/gitlab issues or tickets on jira/asana/linear/notio
 
 ### Installation
 
-```
+```bash
 brew install todo2ticket
 ```
 
@@ -17,12 +17,13 @@ brew install todo2ticket
 
 **To run from CLI**
 
-```
+```bash
 todo2ticket . # defaults to creating a ticket.json file from your current directory TODO comments
 ```
 
 ### Run from file
-```
+
+```bash
 todo2ticket --path="~/IdeaProjects/sampleProject/.github/tickets/tickets.json" --config="~/IdeaProjects/sampleProject/.github/tickets/todo2ticket.yaml"
 ```
 
