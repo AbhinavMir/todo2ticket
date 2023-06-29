@@ -1,9 +1,11 @@
 ## Todo2ticket
 
+work left, don't use yet
 Export your todos are github/gitlab issues or tickets on jira/asana/linear/notion.
 
 ### Installation
 
+@todo
 ```bash
 brew install todo2ticket
 ```
